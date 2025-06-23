@@ -1,0 +1,16 @@
+
+-----------API Endpoints--------------
+
+1- Donations
+GET/api/ - List of all Donations (1)
+
+2- Donors
+GET/api/donor/ - List all donors id with their details (2)
+
+3- Campaigns
+GET/api/campaign/ - List all campaigns id with their details (3)
+
+GET/api/campaigns/1/ - List Donation amount per currency (4)
+
+GET/api/campaigns/complete/ - List Completed donation per campaign (5)
+#####################################################################
